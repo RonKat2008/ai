@@ -1,5 +1,12 @@
 # @ai-sdk/gateway
 
+## 4.0.105
+
+### Patch Changes
+
+- Updated dependencies [0af2f7c]
+  - @ai-sdk/provider-utils@5.0.55
+
 ## 4.0.104
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # ai
 
+## 7.0.129
+
+### Patch Changes
+
+- f810ea3: fix(ai): prevent unavailable tools from exposing persisted output to models
+- 0af2f7c: chore: upgrade to TypeScript 6
+- Updated dependencies [0af2f7c]
+  - @ai-sdk/provider-utils@5.0.55
+  - @ai-sdk/gateway@4.0.105
+
 ## 7.0.128
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @ai-sdk/quiverai
 
+## 2.0.56
+
+### Patch Changes
+
+- Updated dependencies [0af2f7c]
+  - @ai-sdk/provider-utils@5.0.55
+  - @ai-sdk/open-responses@2.0.60
+
 ## 2.0.55
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # @ai-sdk/workflow
 
+## 2.0.61
+
+### Patch Changes
+
+- 758b092: fix(workflow): accept common tool JSON Schema dialects and annotations
+- Updated dependencies [f810ea3]
+- Updated dependencies [0af2f7c]
+  - ai@7.0.129
+  - @ai-sdk/provider-utils@5.0.55
+
 ## 2.0.60
 
 ### Patch Changes

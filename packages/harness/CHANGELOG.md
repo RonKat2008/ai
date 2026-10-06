@@ -1,5 +1,15 @@
 # @ai-sdk/harness
 
+## 1.0.140
+
+### Patch Changes
+
+- 0af2f7c: chore: upgrade to TypeScript 6
+- Updated dependencies [f810ea3]
+- Updated dependencies [0af2f7c]
+  - ai@7.0.129
+  - @ai-sdk/provider-utils@5.0.55
+
 ## 1.0.139
 
 ### Patch Changes

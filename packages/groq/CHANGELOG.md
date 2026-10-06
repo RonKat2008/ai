@@ -1,5 +1,13 @@
 # @ai-sdk/groq
 
+## 4.0.56
+
+### Patch Changes
+
+- 0af2f7c: chore: upgrade to TypeScript 6
+- Updated dependencies [0af2f7c]
+  - @ai-sdk/provider-utils@5.0.55
+
 ## 4.0.55
 
 ### Patch Changes

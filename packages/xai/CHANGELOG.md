@@ -1,5 +1,13 @@
 # @ai-sdk/xai
 
+## 5.0.16
+
+### Patch Changes
+
+- 0af2f7c: chore: upgrade to TypeScript 6
+- Updated dependencies [0af2f7c]
+  - @ai-sdk/provider-utils@5.0.55
+
 ## 5.0.15
 
 ### Patch Changes

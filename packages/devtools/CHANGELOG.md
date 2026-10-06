@@ -1,5 +1,14 @@
 # @ai-sdk/devtools
 
+## 1.0.32
+
+### Patch Changes
+
+- 0af2f7c: chore: upgrade to TypeScript 6
+- Updated dependencies [f810ea3]
+- Updated dependencies [0af2f7c]
+  - ai@7.0.129
+
 ## 1.0.31
 
 ### Patch Changes
