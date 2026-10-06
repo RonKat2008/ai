@@ -1,5 +1,11 @@
 # ai
 
+## 5.0.273
+
+### Patch Changes
+
+- 51e2b34: fix(ai): prevent unavailable tools from exposing persisted output to models
+
 ## 5.0.272
 
 ### Patch Changes
